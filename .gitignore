@@ -1,0 +1,17 @@
+# Never publish raw genetic/medical files
+private_genetic/
+**/private_genetic/
+*.vcf
+*.vcf.gz
+*.bam
+*.cram
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sam
+*.bed
+*.ped
+*.map
+*.23andme*.txt
+raw_data*.txt
